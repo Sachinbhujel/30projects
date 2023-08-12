@@ -1,1 +1,1 @@
-# 30projects
+# 30Miniprojects
