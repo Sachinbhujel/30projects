@@ -1,0 +1,93 @@
+*{
+  margin: 0;
+  font-family: sans-serif;
+  padding: 0;
+}
+
+.title h1{
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+.navBar{
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+  height: 9vh;
+  background: silver;
+}
+
+.rightSide img{
+  width: 42px;
+  margin: 2px;
+}
+
+.middle1{
+  margin-top: 7px;
+}
+
+.middle1 h1{
+  text-shadow: 0px 0px 0.3rem orange;
+  text-align: center;
+}
+
+.image{
+  margin-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-radius: 30px;
+}
+
+.text{
+  height: 20vh;
+  font-size: 18px;
+  border-radius: 30px;
+  margin: 10px;
+  background: silver;
+  padding: 17px;
+}
+
+.middle2 h2{
+  margin-left: 20px;
+  text-shadow: 0px 0px 0.3em red;
+}
+
+figcaption{
+  font-size: 14px;
+  font-style: italic;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.lower{
+  margin-top: 20px;
+  height: 50.1vh;
+  width: 100%;
+  background: #293744;
+}
+
+.lower h1{
+  color: silver;
+  text-align: center;
+  font-size: 40px;
+  padding: 10px;
+}
+
+.lower h2{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 28px;
+  color: white;
+}
+
+.lower p{
+  color: white;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.foter p{
+  margin-top: 40px;
+}
